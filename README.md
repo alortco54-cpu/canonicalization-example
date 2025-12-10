@@ -1,4 +1,4 @@
-Initial README for SAST test
+
 # Canonicalization Example (Node.js)
 
 This example demonstrates:
